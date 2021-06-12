@@ -95,27 +95,3 @@ axes = Axes3D(fig)
 axes.plot_surface(x, y, z, cmap = cm.viridis)
 
 pylab.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
