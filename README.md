@@ -1,4 +1,4 @@
-### Hi there 👋
+ Currently working on solving a stationary heat equation in a beam. File "project.pdf" is a small intro to how tasks of mathematical physics can be solved due to computational math methods. The main results helps to optimize the duration of ploting a grid chart as a full map.The stationary problem of heat conduction in a square beam was numerically solved using iterative methods of Jacobi, Seidel and upper relaxation. The highest observed rate of convergence is possessed by upper relaxation method. Seidel's method, although converges slightly faster than Jacobi's method, at small stepsgetting good convergence requires too many iterations. This picture corresponds to the theoretical values of the rate of convergence of the methods used. For all methods, stability in the zero approximation when the grid step tends to zero, therefore, we can concludethe presence of convergence.
 
 <!--
 **paxazp/paxazp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
