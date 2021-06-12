@@ -5,7 +5,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import numpy
 from matplotlib.colors import LinearSegmentedColormap
 from matplotlib import cm
-
+# fem is a way to define norma in L_2 space
 def norma(x):
     maxim = -1
     for i in range(n+1):
